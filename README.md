@@ -15,7 +15,7 @@ import { Icon } from "@sharadox/icon-web-library/icon";
   - chevrons (left, right, up, down)
   - close, expand, zoom-in
   - call, sms, whatsapp, email, directions
-  - cookie
+  - sun, cookie
 
 Sites use these instead of text arrows (→ ↑ ×), so every arrow on every site is the same drawing. A new icon is one more entry in `ICON_PATHS`.
 
