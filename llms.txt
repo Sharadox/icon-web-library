@@ -3,6 +3,7 @@
 > Line icons for every Sharadox site: one React component, drawn on a 24 grid in the current color.
 
 - icon Icon({ name, label?, strokeWidth? = 1.5, className? }): svg 1em square, stroke currentColor, round caps; aria-hidden unless label (then role img)
-- icon-path ICON_PATHS: chevron-left, chevron-right, chevron-up, chevron-down, close, expand, zoom-in, call, sms, whatsapp, email, directions, cookie
+- icon-path ICON_PATHS: chevron-left, chevron-right, chevron-up, chevron-down, close, expand, zoom-in, call, sms, whatsapp, email, directions, sun, cookie
 - Rule: no text arrows (→ ↑ ×) on any site; use these chevrons and icons
 - 0.1.0: first release
+- 0.2.0: sun
