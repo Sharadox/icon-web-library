@@ -1,6 +1,6 @@
 {
   "name": "@sharadox/icon-web-library",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Line icons for every Sharadox site: one React component, drawn on a 24 grid in the current color.",
   "private": false,
   "license": "SEE LICENSE IN LICENCA.md",

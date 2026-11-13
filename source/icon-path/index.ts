@@ -20,6 +20,8 @@ export const ICON_PATHS = {
   /** A map pin: where to go. */
   directions:
     "M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11Z M12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z",
+  /** A sun with eight rays. */
+  sun: "M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z M12 1v3M12 20v3M1 12h3M20 12h3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1",
   /** A cookie with a bite and three crumbs (the cookie panel). */
   cookie:
     "M20.5 12.6A8.5 8.5 0 1 1 11.4 3.5a3 3 0 0 0 3.6 3.6 3 3 0 0 0 3.4 3.4 3 3 0 0 0 2.1 2.1Z M8.6 10h.01 M13 14.6h.01 M8.8 15.6h.01",
