@@ -7,3 +7,4 @@
 - Rule: no text arrows (→ ↑ ×) on any site; use these chevrons and icons
 - 0.1.0: first release
 - 0.2.0: sun
+- 0.3.0: check (a tick: done, included)

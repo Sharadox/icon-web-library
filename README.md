@@ -13,7 +13,7 @@ import { Icon } from "@sharadox/icon-web-library/icon";
 - **`icon`:** `Icon({ name, label?, strokeWidth?, className? })`. The icon is one em square and takes the text's color, so it sizes and colors with the words around it. It is decorative (hidden from assistive technology) unless it has a `label`.
 - **`icon-path`:** `ICON_PATHS`, the path data for every icon:
   - chevrons (left, right, up, down)
-  - close, expand, zoom-in
+  - close, check, expand, zoom-in
   - call, sms, whatsapp, email, directions
   - sun, cookie
 
