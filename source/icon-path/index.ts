@@ -8,6 +8,8 @@ export const ICON_PATHS = {
   "chevron-up": "M5 15l7-7 7 7",
   "chevron-down": "M5 9l7 7 7-7",
   close: "M6 6l12 12M18 6L6 18",
+  /** A tick: done, included. */
+  check: "M5 12.5l4.5 4.5L19 7.5",
   /** Full screen: four corners pulling outwards. */
   expand: "M14 4h6v6M10 20H4v-6M20 4l-7 7M4 20l7-7",
   /** A magnifying glass with a plus: look closer. */
