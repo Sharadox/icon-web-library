@@ -27,4 +27,20 @@ export const ICON_PATHS = {
   /** A cookie with a bite and three crumbs (the cookie panel). */
   cookie:
     "M20.5 12.6A8.5 8.5 0 1 1 11.4 3.5a3 3 0 0 0 3.6 3.6 3 3 0 0 0 3.4 3.4 3 3 0 0 0 2.1 2.1Z M8.6 10h.01 M13 14.6h.01 M8.8 15.6h.01",
+  /** A page with a tick: approved, signed. */
+  "document-check": "M14 3H6v18h12V7l-4-4Z M14 3v4h4 M9 14.5l2 2 4-4",
+  /** The euro sign: a payment. */
+  euro: "M17.5 6.6A7 7 0 1 0 17.5 17.4 M4 10h9.5 M4 14h9.5",
+  /** A closed box: an order, a delivery to come. */
+  package: "M3.5 7.5 12 3l8.5 4.5v9L12 21l-8.5-4.5Z M3.5 7.5 12 12l8.5-4.5 M12 12v9 M7.8 5.2l8.5 4.6",
+  /** A delivery truck. */
+  truck:
+    "M2.5 6h11v10h-11Z M13.5 9.5h4l3 3V16h-7 M5 18.5a2 2 0 1 0 4 0 2 2 0 1 0-4 0Z M15 18.5a2 2 0 1 0 4 0 2 2 0 1 0-4 0Z",
+  /** A wrench: work done by hand, an installation. */
+  wrench:
+    "M14.7 6.3a4.5 4.5 0 0 1 5.6-1.1l-3 3 .4 2.1 2.1.4 3-3a4.5 4.5 0 0 1-6.1 5.8l-7.5 7.5a2.1 2.1 0 0 1-3-3l7.5-7.5a4.5 4.5 0 0 1 1-4.2Z",
+  /** A lightning bolt: done on its own, automatically. */
+  bolt: "M13 2.5 4.5 13.5H12l-1 8 8.5-11H12l1-8Z",
+  /** The mouse pointer (fill it to draw it solid). */
+  pointer: "M5.5 3.5v15.5l4.2-4.1 2.7 6 2.6-1.1-2.7-6h5.9Z",
 } as const;
