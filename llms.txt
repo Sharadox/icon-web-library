@@ -8,3 +8,4 @@
 - 0.1.0: first release
 - 0.2.0: sun
 - 0.3.0: check (a tick: done, included)
+- 0.4.0: BrandIcon and BRAND_ICON_PATHS (filled brand marks: facebook, instagram, tiktok, youtube, x, threads, pinterest, linkedin, google; Simple Icons CC0, LinkedIn drawn here)
