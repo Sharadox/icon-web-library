@@ -13,6 +13,8 @@ import { Icon } from "@sharadox/icon-web-library/icon";
 - **`icon`:** `Icon({ name, label?, strokeWidth?, className? })`. The icon is one em square and takes the text's color, so it sizes and colors with the words around it. It is decorative (hidden from assistive technology) unless it has a `label`.
 - **`brand-icon`:** `BrandIcon({ name, label?, className? })`, a brand's mark (social networks, Google reviews) filled in the current color, one em square. A link with only a mark needs a `label`.
 - **`brand-icon-path`:** `BRAND_ICON_PATHS`: facebook, instagram, tiktok, youtube, x, threads, pinterest, linkedin, google. From Simple Icons (CC0 1.0), except LinkedIn, drawn here.
+- **`flag`:** `Flag({ country, label?, className? })`, a country's flag by ISO code (`"PT"`), 1.5 by 1 em. Decorative unless it has a `label`.
+- **`flag-svg`:** `FLAG_SVGS`, the 245 countries that have a phone calling code, and the `FlagCountry` type. From country-flag-icons (MIT, see `NOTICE.md`). It is one module of about 160 KB (47 KB compressed), so import it only where flags are shown.
 - **`icon-path`:** `ICON_PATHS`, the path data for every icon:
   - chevrons (left, right, up, down)
   - close, check, expand, zoom-in
