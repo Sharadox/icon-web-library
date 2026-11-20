@@ -24,6 +24,10 @@ import { Icon } from "@sharadox/icon-web-library/icon";
 
 Sites use these instead of text arrows (→ ↑ ×), so every arrow on every site is the same drawing. A new icon is one more entry in `ICON_PATHS`.
 
-Built from `template-web-library`: TypeScript in `source/`, one thing per folder, imports by package name, versions from 0.1.0, released by tagging `v<version>` on `index`.
+## Develop
 
-Open source: see `LICENSE.md`.
+`pnpm verify` runs formatting, lint, type-check, tests with 100% coverage and the build. Branches follow `<feature>.development` → `development` → `index`, and releases are `v<version>` tags on `index`.
+
+## License
+
+Licença Sharadox de Código Aberto, versão 0.1.0. See [português](LICENCA.md) (the binding text) and the [English translation](LICENSE.md). The flags come from country-flag-icons (MIT) and the brand marks from Simple Icons (CC0): see `NOTICE.md`.
