@@ -5,11 +5,6 @@
 - icon Icon({ name, label?, strokeWidth? = 1.5, className? }): svg 1em square, stroke currentColor, round caps; aria-hidden unless label (then role img)
 - icon-path ICON_PATHS: chevron-left, chevron-right, chevron-up, chevron-down, close, expand, zoom-in, call, sms, whatsapp, email, directions, sun, cookie
 - Rule: no text arrows (→ ↑ ×) on any site; use these chevrons and icons
-- 0.1.0: first release
-- 0.2.0: sun
-- 0.3.0: check (a tick: done, included)
-- 0.5.0: document-check, euro, package, truck, wrench, bolt, pointer (fill it for a solid mouse pointer)
-- 0.4.0: BrandIcon and BRAND_ICON_PATHS (filled brand marks: facebook, instagram, tiktok, youtube, x, threads, pinterest, linkedin, google; Simple Icons CC0, LinkedIn drawn here)
-- 0.6.0: flag Flag({ country, label?, className? }): a country's flag by ISO 3166-1 alpha-2 code, svg 1.5em × 1em (3:2, slice); flag-svg FLAG_SVGS (245 countries with a phone calling code, { viewBox, body }) and type FlagCountry; from country-flag-icons (MIT, NOTICE.md); ~47 KB gzipped, import only where flags show
 - /brand-icon: BrandIcon({ name, label?, className? }): a brand's mark (social networks, review sites), one em square in the current color
 - /brand-icon-path: BRAND_ICON_PATHS: the brand marks' path data on a 24 by 24 grid (Simple Icons, CC0; LinkedIn drawn here)
+- Changes by version: CHANGELOG.md (in the package)
