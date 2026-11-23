@@ -2,6 +2,10 @@
 
 What changed in each version of `@sharadox/icon-web-library`, newest first.
 
+## 0.6.2
+
+Workflows from git-hub-action-library v0.2.2: npm Trusted Publishing only
+
 ## 0.6.1
 
 No side effects declared (the package ships no stylesheets), so bundlers drop what isn't used.
