@@ -1,6 +1,6 @@
 {
   "name": "@sharadox/icon-web-library",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "description": "Line icons, brand marks and country flags for every Sharadox site, as React components in the current color.",
   "private": false,
   "license": "SEE LICENSE IN LICENCA.md",
