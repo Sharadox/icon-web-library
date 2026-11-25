@@ -2,6 +2,10 @@
 
 What changed in each version of `@sharadox/icon-web-library`, newest first.
 
+## 0.7.0
+
+Icons for applications: bell, copy, pencil, trash, plus, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning and switch.
+
 ## 0.6.2
 
 Workflows from git-hub-action-library v0.2.2: npm Trusted Publishing only

@@ -25,3 +25,28 @@ test("every icon is drawn on the 24 grid", () => {
     expect(Math.max(...numbers.map(Math.abs))).toBeLessThanOrEqual(24);
   }
 });
+
+test("has the icons applications need: accounts, notifications, editing and copying", () => {
+  for (const name of [
+    "bell",
+    "copy",
+    "pencil",
+    "trash",
+    "plus",
+    "sign-out",
+    "settings",
+    "question",
+    "key",
+    "shield",
+    "device",
+    "clock",
+    "gift",
+    "download",
+    "user",
+    "users",
+    "lock",
+    "warning",
+    "switch",
+  ])
+    expect(ICON_PATHS).toHaveProperty(name);
+});
