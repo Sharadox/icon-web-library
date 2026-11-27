@@ -53,6 +53,10 @@ export const ICON_PATHS = {
   trash: "M4 6.5h16 M9.5 6.5V4h5v2.5 M6 6.5l1 13.5h10l1-13.5 M10 10.5v6 M14 10.5v6",
   /** A plus: add. */
   plus: "M12 5v14M5 12h14",
+  /** A minus: take away, fewer. */
+  minus: "M5 12h14",
+  /** A calendar page: pick a date. */
+  calendar: "M5 6h14v14H5Z M5 10h14 M9 4v4 M15 4v4",
   /** A door with an arrow leaving it: sign out. */
   "sign-out": "M10 4H5v16h5 M15 8l4 4-4 4 M19 12H9",
   /** A gear: settings. */
