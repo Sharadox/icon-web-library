@@ -21,7 +21,7 @@ import { Icon } from "@sharadox/icon-web-library/icon";
   - call, sms, whatsapp, email, directions
   - sun, cookie
   - document-check, euro, package, truck, wrench, bolt, pointer (work and activity: approved, paid, ordered, delivered, installed, automatic; the pointer is drawn solid by filling it)
-  - bell, copy, pencil, trash, plus, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning, switch (applications: accounts, notifications, editing)
+  - bell, copy, pencil, trash, plus, minus, calendar, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning, switch (applications: accounts, notifications, editing)
 
 Sites use these instead of text arrows (→ ↑ ×), so every arrow on every site is the same drawing. A new icon is one more entry in `ICON_PATHS`.
 
