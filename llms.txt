@@ -3,7 +3,7 @@
 > Line icons for every Sharadox site: one React component, drawn on a 24 grid in the current color.
 
 - icon Icon({ name, label?, strokeWidth? = 1.5, className? }): svg 1em square, stroke currentColor, round caps; aria-hidden unless label (then role img)
-- icon-path ICON_PATHS: chevron-left, chevron-right, chevron-up, chevron-down, close, check, expand, zoom-in, call, sms, whatsapp, email, directions, sun, cookie, document-check, euro, package, truck, wrench, bolt, pointer, bell, copy, pencil, trash, plus, minus, calendar, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning, switch
+- icon-path ICON_PATHS: chevron-left, chevron-right, chevron-up, chevron-down, close, check, expand, zoom-in, call, sms, whatsapp, email, directions, sun, cookie, document-check, euro, package, truck, wrench, bolt, pointer, bell, copy, pencil, trash, plus, minus, calendar, menu, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning, switch
 - Rule: no text arrows (→ ↑ ×) on any site; use these chevrons and icons
 - /brand-icon: BrandIcon({ name, label?, className? }): a brand's mark (social networks, review sites), one em square in the current color
 - /brand-icon-path: BRAND_ICON_PATHS: the brand marks' path data on a 24 by 24 grid (Simple Icons, CC0; LinkedIn drawn here)

@@ -55,6 +55,8 @@ export const ICON_PATHS = {
   plus: "M12 5v14M5 12h14",
   /** A minus: take away, fewer. */
   minus: "M5 12h14",
+  /** Three lines: open the menu. */
+  menu: "M4 7h16 M4 12h16 M4 17h16",
   /** A calendar page: pick a date. */
   calendar: "M5 6h14v14H5Z M5 10h14 M9 4v4 M15 4v4",
   /** A door with an arrow leaving it: sign out. */

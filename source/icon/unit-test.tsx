@@ -52,5 +52,5 @@ test("has the icons applications need: accounts, notifications, editing and copy
 });
 
 test("has the icons the interface's pickers need: fewer and more", () => {
-  for (const name of ["minus", "plus", "calendar"]) expect(ICON_PATHS).toHaveProperty(name);
+  for (const name of ["minus", "plus", "calendar", "menu"]) expect(ICON_PATHS).toHaveProperty(name);
 });

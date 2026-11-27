@@ -4,7 +4,7 @@ What changed in each version of `@sharadox/icon-web-library`, newest first.
 
 ## 0.7.0
 
-Icons for applications: bell, copy, pencil, trash, plus, minus, calendar, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning and switch.
+Icons for applications: bell, copy, pencil, trash, plus, minus, calendar, menu, sign-out, settings, question, key, shield, device, clock, gift, download, user, users, lock, warning and switch.
 
 ## 0.6.2
 
